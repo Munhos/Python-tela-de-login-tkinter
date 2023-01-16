@@ -1,0 +1,2 @@
+•Atualizando o método de salvamento de arquivo txt para json, ficando assim mais legivel.
+•Melhoremento no código para melhor entendimento
